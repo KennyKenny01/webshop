@@ -37,7 +37,7 @@ img{
 }
 
 .contenedor {
-    max-width: 12rem;
+    max-width: 120rem;
     margin: 0 auto;
 }
 
@@ -87,4 +87,18 @@ gap: 2rem;
 .navegacion__enlace:hover,
 .navegacion__enlace--activo {
     color: var(--secundario);
+}
+/**Productos*/
+
+.producto{
+
+}
+.producto__imagen {
+
+}
+.producto__nombre {
+
+}
+.producto__precio {
+    
 }
