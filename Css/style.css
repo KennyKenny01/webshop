@@ -38,10 +38,10 @@ img{
 
 .contenedor {
     max-width: 12rem;
-    margin: 0, auto;
+    margin: 0 auto;
 }
 
-h1,h2,h3{
+h1, h2, h3{
     text-align: center;
     color: var(--secundario);
     font-family: var(--fuentePrincipal);
@@ -58,7 +58,18 @@ h3 {font-size: 2.4rem;}
 .header__logo{
     margin: 3rem 0 ;
 }
+/**Footer*/
+.footer{
+background-color: var(--primarioOscuro);
+padding: 1rem 0;
+margin-top: 2rem;
+}
+.footer__texto {
+font-family: var(--fuentePrincipal);
+text-align: center;
+font-size: 2.2rem;
 
+}
 /**Navegacion*/
 .navegacion {
 background-color: var(--primarioOscuro);
